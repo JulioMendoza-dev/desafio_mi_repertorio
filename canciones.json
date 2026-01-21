@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "show most go on",
+    "artista": "queen",
+    "tono": "C Major"
+  },
+  {
+    "id": 3,
+    "titulo": "baila sin cesar",
+    "artista": "31 minutos",
+    "tono": "C Major"
+  },
+  {
+    "id": "4",
+    "titulo": "baladas hoy",
+    "artista": "manzanero",
+    "tono": "REm"
+  },
+  {
+    "id": 2309,
+    "titulo": "parabola",
+    "artista": "tool",
+    "tono": "fibonacci"
+  }
+]
